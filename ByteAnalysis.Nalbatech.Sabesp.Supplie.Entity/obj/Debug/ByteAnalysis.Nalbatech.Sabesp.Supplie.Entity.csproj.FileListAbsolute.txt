@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Projeto\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity\bin\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity.dll
+\\Mac\Home\Documents\Projeto\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity\bin\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity.pdb
+\\Mac\Home\Documents\Projeto\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity\obj\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projeto\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity\obj\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity.dll
+\\Mac\Home\Documents\Projeto\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity\obj\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity.pdb
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity\bin\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity.dll
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity\bin\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity.pdb
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity\obj\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity.csproj.CoreCompileInputs.cache
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity\obj\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity.dll
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity\obj\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity.pdb

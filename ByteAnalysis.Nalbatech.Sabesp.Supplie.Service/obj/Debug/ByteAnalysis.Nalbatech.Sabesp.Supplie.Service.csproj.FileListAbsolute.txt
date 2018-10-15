@@ -1,0 +1,11 @@
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service\bin\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service.dll
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service\bin\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service.pdb
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service\bin\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity.dll
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service\bin\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Repository.dll
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service\bin\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Entity.pdb
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service\bin\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Repository.pdb
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service\obj\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service.csprojAssemblyReference.cache
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service\obj\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service.csproj.CoreCompileInputs.cache
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service\obj\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service.csproj.CopyComplete
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service\obj\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service.dll
+C:\Projects\Nalbatech\Sabesp.Supplie\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service\obj\Debug\ByteAnalysis.Nalbatech.Sabesp.Supplie.Service.pdb
